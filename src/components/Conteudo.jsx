@@ -110,7 +110,7 @@ function Conteudo() {
         </div>
       </section>
       {/* ------------------------------fim dra val-------------------------------------- */}
-      <section>
+      <section id="procedimento">
         <div className={Styles.textinform}>
           <div className={Styles.titleproce}>
             <h1>Procedimentos</h1>
@@ -239,7 +239,7 @@ function Conteudo() {
         </div>
       </section>
       {/* -------------------------------------------------------------- */}
-      <section className={Styles.fotoclinica}>
+      <section id="clinica" className={Styles.fotoclinica}>
         <div className={Styles.nuven1}>
           <img src={nuvem} alt="" />
         </div>
@@ -295,7 +295,7 @@ function Conteudo() {
         </div>
       </section>
       <section>
-        <div className={Styles.resultados}>
+        <div id="resultado" className={Styles.resultados}>
           <div className={Styles.titlepage}>
             <h1>Resultados</h1>
             <p>
@@ -381,7 +381,7 @@ function Conteudo() {
         </div>
       </section>
       {/* ============================================================== */}
-      <section className={Styles.contacto}>
+      <section id="locali" className={Styles.contacto}>
         <div className={Styles.cardinfo}>
           <div className={Styles.contato}>
             <div className={Styles.iconsinfocaoes}>
