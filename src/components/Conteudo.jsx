@@ -2,7 +2,7 @@ import Styles from "../components/Conteudo.module.css";
 import moca from "../assets/img/Modelo.png";
 import what from "../assets/img/whatb.png";
 import selo from "../assets/img/selo.png";
-import compro from "../assets/img/compromisso.png";
+import compro from "../assets/img/Compro.png";
 import ex from "../assets/img/ex.png";
 import estrela from "../assets/img/estrela.png";
 import atendimento from "../assets/img/atendimento.png";
