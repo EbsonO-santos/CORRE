@@ -24,7 +24,7 @@ import maps from "../assets/img/maps.png";
 import whatb from "../assets/img/what.png";
 import tel2 from "../assets/img/tel2.png";
 import rel from "../assets/img/relogio.png";
-import local from "../assets/img/localizacao.png";
+import local from "../assets/img/Localizacao.png";
 function Conteudo() {
   return (
     <main>
